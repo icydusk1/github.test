@@ -6,4 +6,5 @@ int main(){
     //D
     //1234
     //subInit2
+    //copy
 }
