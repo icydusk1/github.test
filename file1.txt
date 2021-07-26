@@ -7,5 +7,5 @@ int main(){
     //1234
     //subInit2
     //copy
-    //master
+    //sub
 }
